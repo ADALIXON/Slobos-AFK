@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "snickersmarketplace.aternos.me:36633",
-    "port": 36633,
+    "port": 3663,
     "version": "1.21.1",
     "try-creative": false
   },
