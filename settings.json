@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "snickersmarketplace.aternos.me:36633",
+    "ip": "snickersmarketplace.aternos.me",
     "port": 36633,
     "version": "",
     "try-creative": false
